@@ -1,0 +1,48 @@
+{
+  "room": "theclassic lt",
+  "author": "Corpse",
+  "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
+  "css": "https://www.dropbox.com/s/xe10jvj4y4qa8qq/lietuvosjaunimas.css?dl=1",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": false,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#2ac0fb",
+    "cohost": "#2ac0fb",
+    "manager": "#0061B7",
+    "bouncer": "#00CBBD",
+    "rdj": "#14AA00",
+    "subscriber": null,
+    "silversubscriber": null,
+    "friend": "#905BA1",
+    "user": null
+  },
+  "images": {
+    "background": "https://www.dropbox.com/s/o7holdluwbu91gh/k9zVa92.png?dl=1",
+    "playback": null,
+    "admin": null,
+    "ambassador": null,
+    "host": null,
+    "cohost": null,
+    "manager": null,
+    "bouncer": null,
+    "rdj": null,
+    "subscriber": null,
+    "silversubscriber": "https://dl.dropboxusercontent.com/s/ix0gwve0k4i21op/SilverSub.png"
+  },
+  "autocomplete": [
+
+  ],
+  "emotes": {
+    "droptv": "https://dl.dropboxusercontent.com/s/wvk9b6djfjm3xuf/DropTv.png"
+  }
+}
