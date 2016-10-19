@@ -2,7 +2,7 @@
   "room": "theclassic lt",
   "author": "Corpse",
   "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
-  "css": "https://www.dropbox.com/s/xe10jvj4y4qa8qq/lietuvosjaunimas.css?dl=1",
+  "css": "https://www.dropbox.com/s/h430ek49jsjemfv/classic.css?dl=1",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
