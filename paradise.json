@@ -1,5 +1,5 @@
 {
-  "room": "SuicideHideout",
+  "room": "Lithuanian Paradise",
   "author": "UndeadCorpse",
   "icon": null,
   "css": "https://www.dropbox.com/s/bv2latmmt4tm5o8/suicidehideout%20v2.css?dl=1",
@@ -27,7 +27,7 @@
     "user": null
   },
   "images": {
-    "background": null,
+    "background": "http://i.imgur.com/d3TwdRJ.jpg",
     "playback": null,
     "admin": "http://i.imgur.com/86smil1.png",
     "ambassador": "http://i.imgur.com/2FZYIrH.png",
@@ -43,6 +43,19 @@
 
   ],
   "emotes": {
-    "droptv": "https://dl.dropboxusercontent.com/s/wvk9b6djfjm3xuf/DropTv.png"
+    "fuckyou": "http://i.imgur.com/VO8WLzl.png",
+    "roza": "http://i.imgur.com/AhxdNNV.png",
+    "ssjroza": "http://i.imgur.com/kwMCIhF.png",
+    "xmasroza": "http://i.imgur.com/SgnXxnK.png",
+    "ruski": "http://i.imgur.com/KrTCyUO.png",
+    "sadroza": "http://i.imgur.com/Dh3Vy9P.png",
+    "ddxface": "http://i.imgur.com/LS61A16.png",
+    "ryuk": "http://i.imgur.com/4zc2LKJ.png",
+    "ryuku": "http://i.imgur.com/tAizRWU.png",
+    "4neko": "https://i.imgur.com/2NSEZr3.gif",
+    "kawaiighost": "https://i.imgur.com/TC6h5uy.gif",
+    "petme": "https://i.imgur.com/ZcXheej.gif",
+    "emiliahush": "https://i.imgur.com/MSHrwTZ.gif",
+    "emiliaconfused": "https://i.imgur.com/hDoGSZ5.gif"
   }
 }
