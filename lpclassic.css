@@ -1,0 +1,459 @@
+    /* CSS by: UndeadCorpse */
+/* L.P. transparent theme Version: 2.0 */
+
+/*nothing to see here*/
+
+@import url("https://www.dropbox.com/s/z4pngy57r2nsj6t/wm.css?dl=1");
+
+
+.icon-room { 
+	width: 60px !important;
+}
+#room-name, #room-host, #now-playing-dj, #now-playing-media {
+    left: 45px !important;
+    color: #fff !important;
+    font-weight: bold;
+    text-shadow: 2px 0px 11px, #dd00ff;
+}
+.app-header, #footer-user .info, #dashboard {
+    background: rgba(0, 0, 0, 0.85) !important;
+}
+#volume .slider {
+    background-color: rgba(0, 0, 0, 0) !important;
+    box-shadow: 0px -19px 0px 6px rgba(0, 0, 0, 0), 0px 18px 0px 6px rgba(0, 0, 0, 0) !important;
+}
+#rcs-menu {
+background: rgba(0,0,0,0.5) !important;
+}
+#footer, .app-right {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+#playlist-panel, #user-view, #waitlist .list .sortable-placeholder, #room-settings {
+    background: rgba(0, 0, 0, 0.95) !important;
+}
+#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu, .app-right .friends, .badge-box {
+    background: none !important;
+}
+#app-menu, #app-menu .list {
+    background: rgba(0, 0, 0, 0.85) !important;
+}
+#room .app-right {
+    background: rgba(0,0,0,0.5) !important;
+}
+.header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
+    background: rgba(40, 100, 120, 0.75) !important;
+}
+#app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
+    background: rgba(40, 100, 120, 0.75)!important;
+}
+.app-right .friends .list .row.clickable .room, #room-settings .general-settings a, #room-settings .general-settings a:visited {
+    color: rgba(40, 100, 120, 1)!important;
+}
+.icon-staff {
+    background-position: 35px 520px !important;
+}
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #286478 !important;
+}
+#chat .emote, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome, #chat .cm, #chat .emote:nth-child(2n+1),#chat .message:nth-child(2n+1), #chat .moderation:nth-child(2n+1), #chat .skip:nth-child(2n+1), #chat .system:nth-child(2n+1), #chat .update:nth-child(2n+1), #chat .welcome:nth-child(2n+1), #chat .cm:nth-child(2n+1) {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+#chat .welcome {
+    color: #286478 !important;
+}
+#chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
+    background: linear-gradient(to left, rgba(37,185,97,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
+    border-left: rgba(119, 40, 40, 0.75) 3px solid !important;
+}
+#user-lists .list .user:hover, #waitlist .list .user {
+	background: linear-gradient(to right, rgba(187, 37, 37, 0.2) 0%,rgba(0,0,0,0) 100%) !important;
+}
+#chat .msg .text .name, #chat .msg .text .name .name {
+    color: #FFF !important;
+}
+.experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
+	background: #286478 !important;
+}
+#chat-input {
+	background: rgba(40, 100, 120, 0.25) !important;
+}
+#chat .focused, #room-settings .focused {
+    -webkit-box-shadow: inset 0 0 0 #286478!important;
+    -moz-box-shadow: inset 0 0 0 #286478!important;
+    box-shadow: inset 0 0 0 1px #286478!important;
+} 
+#chat .msg .text .name, #chat .msg .text .name .name {
+    color: #FFF !important;
+}
+#rcs-progress-container .bar {
+    background: #286478 !important;
+}
+#user-lists .list.staff .group {
+    border-top: 1px solid rgba(40, 100, 120, 1) !important;
+    border-bottom: 1px solid rgba(40, 100, 120, 1) !important;
+    background: rgba(40, 100, 120, 0.2) !important;
+}
+#playlist-button, #playlist-menu .menu .row.selected, #playlist-activate-button, #playlist-import:hover, .media-list .row.selected, .tab-menu button.selected, #user-menu .item.selected, #room-settings-menu .item.selected {
+    background: rgba(40, 100, 120, 0.75) !important;
+}
+.icon-check-circle, .icon-check-purple {
+    background-position: -70px -140px !important;
+}
+#playlist-menu .menu .row .count, #playlist-activate-button span {
+color: #FFF !important;
+}
+.icon-next-track {
+    background-position: -70px -175px !important;
+}
+.media-list .selected .actions {
+    background: rgba(119, 40, 40, 1) !important;
+}
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+.communities .grid .cell .bar, .communities .grid .cell .favorite, .communities .grid .cell .meta, .communities .grid .cell .meta .host, .communities .grid .cell {
+background: #000 !important;
+}
+.communities .grid .cell:hover>.meta {
+background: rgba(0, 0, 0, 0.85) !important;
+}
+.communities .grid .cell .meta .join {
+background: rgba(92, 31, 31, 0.5) !important;
+}
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+    background: rgba(40, 100, 120, 0.75) !important;
+}
+.jspDrag {
+    background: rgba(40, 100, 120, 0.65) !important;
+}
+.jspDrag:hover, .jspTrack .jspActive, .jspTrack .jspHover, .experience .levels .level.earned.avatar .label {
+    background: rgba(40, 100, 120, 0.95) !important;
+}
+/* Scrollbar */
+
+#footer-user .back, #footer-user .signup {
+    background: rgba(40,100,120,0.75) !important;
+    -webkit-box-shadow: inset 0 2px 0 -1px rgba(40,100,120,1) !important;
+    -moz-box-shadow: inset 0 2px 0 -1px rgba(40,100,120,1) !important;
+    box-shadow: inset 0 2px 0 -1px rgba(40,100,120,1) !important;
+}
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+background: #c42e3b !important;
+}
+#dj-button .left {
+background: #25b961 !important;
+}
+#woot:hover, #woot .emote:hover, #woot .update:hover {
+                -moz-transition: 100ms linear 50ms;
+                -o-transition: 100ms linear 50ms;
+                -webkit-transition: 100ms linear 50ms;
+                border-top: #00FF00 3px solid;
+                padding-top: 0px;
+                text-decoration: none;
+                transition: 100ms linear 50ms;
+}
+#woot-rs {
+    background: rgba(0, 156, 34, 0.35);
+    -webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.50s;
+}
+#grab-rs {
+    background: rgba(222, 86, 255, 0.35);
+    -webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.50s;
+}
+#grab:hover, #grab .emote:hover, #grab .update:hover {
+                -moz-transition: 100ms linear 50ms;
+                -o-transition: 100ms linear 50ms;
+                -webkit-transition: 100ms linear 50ms;
+                border-top: #BF00FF 3px solid;
+                padding-top: 0px;
+                text-decoration: none;
+                transition: 100ms linear 50ms;
+}
+#meh-rs {
+    background: rgba(255, 39, 54, 0.35);
+	-webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.50s;
+}
+#meh:hover, #meh .emote:hover, #meh .update:hover {
+                -moz-transition: 100ms linear 50ms;
+                -o-transition: 100ms linear 50ms;
+                -webkit-transition: 100ms linear 50ms;
+                border-top: #FF0000 3px solid;
+                padding-top: 0px;
+                text-decoration: none;
+                transition: 100ms linear 50ms;
+}
+#chat .emote .from {
+     color: #ac76ff !important;
+}
+#chat .emote {
+    border-left: rgba(174, 69, 189, 1) 3px solid !important;
+    background-color: none; !important;
+}
+#chat .emote .text {
+    font-style: normal;
+    font-weight: bold;
+    color: #ac76ff;
+}
+#chat .mention .msg {
+    background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(0, 98, 225, 0.27) 100%) !important;
+}
+	/*badges*/
+/*changed badges*/
+i.bdg.bdg-admin-g.g {
+    background: url("http://i.imgur.com/8w0Pw8v.png") !important;
+}
+i.bdg.bdg-bt-g.g {
+    background: url("http://i.imgur.com/j56X7lW.png") !important;
+}
+i.bdg.bdg-ea-g.g {
+    background: url("http://i.imgur.com/SQkTI44.png") !important;
+}
+i.bdg.bdg-og-g.g {
+    background: url("http://i.imgur.com/4CDZ1uN.png") !important;
+}
+i.bdg.bdg-ss-g.g {
+    background: url("http://i.imgur.com/LPRP5Ro.png") !important;
+}
+/*classic badges*/
+i.bdg.bdg-admin-o01.o {
+    background: url("http://i.imgur.com/jipMEFE.gif") !important;
+}
+i.bdg.bdg-animal-o05.o {
+    background: url("http://i.imgur.com/oPO1L3j.gif") !important;
+}
+i.bdg.bdg-animal-o10.o {
+    background: url("http://i.imgur.com/1T6qDTO.gif") !important;
+}
+i.bdg.bdg-warrior-o02.o {
+    background: url("http://i.imgur.com/Q7n8XQZ.gif") !important;
+}
+i.bdg.bdg-seaset-g.g {
+	background: url("http://i.imgur.com/4H8YjnQ.png") !important;
+}
+i.bdg.bdg-animal-o03.o {
+	background: url("https://i.gyazo.com/757a39c8dd94e73f04af4b43bb3c6731.jpg") !important;
+	background-size:        cover;
+}
+/*Large badge Fix*/
+i.bdg.large.bdg-admin-g.g,
+i.bdg.large.bdg-bt-g.g,
+i.bdg.large.bdg-ea-g.g,
+i.bdg.large.bdg-og-g.g,
+i.bdg.large.bdg-ss-g.g,
+i.bdg.large.bdg-admin-o01.o ,
+i.bdg.large.bdg-animal-o05.o,
+i.bdg.large.bdg-warrior-o02.o,
+i.bdg.large.bdg-animal-o10.o,
+i.bdg.bdg-rave-o02.o{
+    width: 30px;
+    height: 30px;
+	position: relative !important;
+    top: 55px !important;
+}
+/* Alucard */
+
+#chat-messages .id-5200812 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/LDKHuAk.gif');
+        background-size:        cover;
+}
+/* Tohka */
+
+#chat-messages .id-13760153 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/goRUkz7.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-13760153 .info .badge-box .bdg {
+	background: url(http://i.imgur.com/goRUkz7.png)
+        center no-repeat!important;
+}
+/* DearSuicide */
+
+#chat-messages .id-3669210 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/0MwxygD.gif');
+        background-size:        cover;
+}
+/* Augis */
+
+#chat-messages .id-13760968 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/MrCVWCU.png');
+        background-size:        cover;
+}
+/* Maroze */
+
+#chat-messages .id-3825203 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/R5e2CH0.jpg');
+        background-size:        cover;
+}
+/* Vaska */
+
+#chat-messages .id-6506524 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/q1NYSq0.png');
+        background-size:        cover;
+}
+/* Nike */
+
+#chat-messages .id-14141411 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/bcjZJQT.jpg');
+        background-size:        cover;
+}
+/* Voveriuke */
+
+#chat-messages .id-3627171 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/3TOwwJw.jpg');
+        background-size:        cover;
+}
+/* Vilius */
+
+#chat-messages .id-1345956 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/I7KHifr.png');
+        background-size:        cover;
+}
+/* Airis */
+
+#chat-messages .id-5929560 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/FuyCN4Y.png');
+        background-size:        cover;
+}
+/* Bandite */
+
+#chat-messages .id-14153646 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/lmVqWYM.png');
+        background-size:        cover;
+}
+/* Murzius */
+
+#chat-messages .id-4433295 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/We0kk0Y.png?1');
+        background-size:        cover;
+}
+/* Xrencik */
+
+#chat-messages .id-13186343 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/8blXRXU.jpg');
+        background-size:        cover;
+}
+/* SeeU */
+
+#chat-messages .id-23484281 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/jGdppv1.png');
+        background-size:        cover;
+}
+
+#user-rollover.id-23484281 .info .badge-box .bdg {
+	background: url(http://i.imgur.com/jGdppv1.png)
+        center no-repeat!important;
+}
+
+/*** Icons ***/
+
+/* Voveriuke */
+
+[data-cid^="3627171-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/reOhPgt.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* Alucard */
+
+[data-cid^="5200812-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/rF0Eq0j.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* Tohka */
+
+[data-cid^="13760153-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/U45rOq8.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* Efka */
+
+[data-cid^="5022220-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/6qu3KQD.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* Gangster */
+
+[data-cid^="13528413-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/EYAGBG7.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* De1v1s */
+
+[data-cid^="5023908-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://i.imgur.com/ZuEI5ih.gif');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+/* Vilius */
+
+[data-cid^="1345956-"] .msg .from .un {
+    position: relative;
+    left:-2px;
+    padding-left: 17px;
+    background-image: url('http://i.imgur.com/nEKpRmH.png');
+    background-repeat: no-repeat;
+    background-position: 0px center;
+    background-size: 14px auto;
+}
+.description.panel .value a[href*=".json"] {
+    display: none;
+}
