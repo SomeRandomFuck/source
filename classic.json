@@ -2,7 +2,7 @@
   "room": "Lithuanian Paradise",
   "author": "Corpse",
   "icon": "https://www.dropbox.com/s/9oc0zbzqezzt6um/LT_Icon.png?dl=1",
-  "css": "https://rawgit.com/SomeRandomFuck/source/master/lpclassic.css",
+  "css": "https://rawgit.com/SomeRandomFuck/source/master/classic.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
