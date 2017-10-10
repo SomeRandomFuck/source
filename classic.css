@@ -277,18 +277,6 @@ i.bdg.bdg-rave-o02.o{
         background-image:       url('http://i.imgur.com/LDKHuAk.gif');
         background-size:        cover;
 }
-/* Tohka */
-
-#chat-messages .id-13760153 .badge-box i.bdg
-{
-        background-image:       url('http://i.imgur.com/goRUkz7.png');
-        background-size:        cover;
-}
-
-#user-rollover.id-13760153 .info .badge-box .bdg {
-	background: url(http://i.imgur.com/goRUkz7.png)
-        center no-repeat!important;
-}
 /* DearSuicide */
 
 #chat-messages .id-3669210 .badge-box i.bdg
