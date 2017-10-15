@@ -305,13 +305,6 @@ i.bdg.bdg-rave-o02.o{
         background-image:       url('http://i.imgur.com/q1NYSq0.png');
         background-size:        cover;
 }
-/* Nike */
-
-#chat-messages .id-14141411 .badge-box i.bdg
-{
-        background-image:       url('http://i.imgur.com/bcjZJQT.jpg');
-        background-size:        cover;
-}
 /* Vilius */
 
 #chat-messages .id-1345956 .badge-box i.bdg
@@ -324,13 +317,6 @@ i.bdg.bdg-rave-o02.o{
 #chat-messages .id-5929560 .badge-box i.bdg
 {
         background-image:       url('http://i.imgur.com/FuyCN4Y.png');
-        background-size:        cover;
-}
-/* Bandite */
-
-#chat-messages .id-14153646 .badge-box i.bdg
-{
-        background-image:       url('http://i.imgur.com/lmVqWYM.png');
         background-size:        cover;
 }
 /* Murzius */
@@ -362,17 +348,6 @@ i.bdg.bdg-rave-o02.o{
 
 /*** Icons ***/
 
-/* Voveriuke */
-
-[data-cid^="3627171-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left: 18px;
-    background-image: url('http://i.imgur.com/reOhPgt.png');
-    background-repeat: no-repeat;
-    background-position: -1px center;
-    background-size: 15px auto;
-}
 /* Alucard */
 
 [data-cid^="5200812-"] .msg .from .un {
