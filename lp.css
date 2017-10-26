@@ -1,5 +1,4 @@
 |Kambario ikonos|
-
 .icon.icon-site-logo {
     background: url("https://dl.dropboxusercontent.com/s/4pakgq6c44yrs2c/plug.png") repeat scroll 0% 0% transparent !important;
     background-position: -5px 0px;
@@ -14,7 +13,6 @@ i.icon.icon-current-dj {
 }
 
 |Zenkleliai|
-
 i.bdg.bdg-admin-g.g {
     background: url("http://i.imgur.com/8w0Pw8v.png") !important;
 }
@@ -55,7 +53,6 @@ i.bdg.bdg-lucha-o02.o {
 }
 
 |Dideliu zenkleliu pataisymas|
-
 i.bdg.large.bdg-admin-g.g,
 i.bdg.large.bdg-bt-g.g,
 i.bdg.large.bdg-ea-g.g,
@@ -73,7 +70,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Specialus zenkleliai|
-
 /Alucard/
 
 #chat-messages .id-5200812 .badge-box i.bdg
@@ -172,7 +168,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Specialios Ikonos|
-
 /Voveriuke/
 
 [data-cid^="3627171-"] .msg .from .un {
@@ -252,7 +247,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Bendravimo laukas|
-
 #chat {
     background-color: rgba(10, 10, 10, 0.75);
 }
@@ -288,7 +282,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Paminejimai|
-
 #chat .mention {
     background: #0A0A0A !important;
     background: -moz-linear-gradient(-45deg,#ac76ff 0,#0A0A0A 13%,#0A0A0A 100%)!important;
@@ -321,14 +314,12 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Sklandantis bendravimo laukas|
-
 #chat-messages .cm:not(.log):hover {
 	transform: translate(5px, -5px);
 	background-color: rgba(0, 20, 61, 0.50);
 }
 
 |Papildomos spalvos|
-
 #chat-messages .cm.emote:hover {
 	background-color: rgba(174, 69, 189, 0.3) !important;
 }
@@ -340,7 +331,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |P0ne bendravimas|
-
 #chat-messages .cm.p0ne-notif.p0ne-meh-warning{
     border-left: rgba(196, 46, 59, 1) 3px solid !important;	
 }
@@ -387,7 +377,6 @@ i.bdg.bdg-rave-o02.o{
 }
 
 |Saraso sklandymas|
-
 #user-lists .list .user:hover {
 background-color: rgba(0, 77, 255, 0.15);
 transform: translate(5px, -5px);
@@ -448,7 +437,6 @@ transition: 100ms linear 50ms;
 }
 
 |Permatomumas|
-
 #toast-notifications .notification .right:hover {
    background: rgba(0, 0, 0, 0.35) !important;
 }
@@ -559,7 +547,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Vartotoju naudojimasis|
-
 #user-rollover {
     border-radius: 10px;
 }
@@ -580,7 +567,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Paprasti vartotojai ir RDJ|
-
 #user-rollover.can-friend .actions .action.friend{
    border-radius: 0 0 10px 10px;
 }
@@ -604,7 +590,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Bouncer|
-
 #user-rollover.is-staff.can-ban .actions .action.mod-ban,
 #user-rollover.is-staff.can-friend.can-ban .actions .action.mod-ban,
 #user-rollover.is-staff.can-mention.can-ignore.can-booth .actions .action.mod-dj{
@@ -625,7 +610,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Manager|
-
 #user-rollover.is-staff.can-booth .actions .action.mod-dj {
    border-radius: 0 0 10px 10px;
 }
@@ -639,7 +623,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Animacijos ir permatomumas|
-
 #user-rollover {
    background: rgba(0, 0, 0, 0.56) !important;
 }
@@ -682,7 +665,6 @@ box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
 }
 
 |Dj mygtukas|
-
 #dj-button {
    background-color: rgba(0, 0, 0, 0.35) !important;
 }
@@ -740,7 +722,6 @@ i.icon.icon-leave-booth-big  {
 }
 
 |Balsavimo mygtukai|
-
 #woot,
 #grab,
 #meh {
@@ -857,7 +838,6 @@ i.icon.icon-star-white {
 }
 
 |Vote|
-
 #vote,
 #woot,
 #woot .top,
@@ -901,7 +881,6 @@ i.icon.icon-star-white {
 }
 
 /*RCS bei P3 redagavimai*/
-
 #woot-rs {
     background: rgba(0, 156, 34, 0.35);
     -webkit-animation:fadein 0.25s;
@@ -947,7 +926,6 @@ i.icon.icon-star-white {
 }
 
 |Extplug ir p0ne redagavimai|
-
 .p0ne-settings-wrapper {
     background: rgba(0, 0, 0, 0.5);
 }
@@ -965,7 +943,6 @@ i.icon.icon-star-white {
 }
 
 |Animacijos|
-
 .back,
 #footer-user .buttons .button,
 #footer-user .buttons .store.button{
@@ -987,7 +964,6 @@ i.icon.icon-star-white {
 }
 
 |Specialus dalykeliai|
-
 #footer .bar-button .section .chevron:before,
 #footer .bar-button .section .chevron:after{
     background: rgba(0, 0, 0, 0.3);
@@ -1017,7 +993,6 @@ i.icon.icon-star-white {
 }
 
 |Etiketes|
-
 #tooltip span {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 5px;
@@ -1075,7 +1050,6 @@ i.icon.icon-star-white {
 }
 
 |Animacija|
-
 /*@keyframes snow {
   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
   50% {background-position: 500px 500px, 200px 200px, -150px 150px;}
@@ -1158,7 +1132,6 @@ to {
 }
 
 |Mazas niekutis|
-
 .description.panel .value a[href*=".json"] {
     display: none;
 }
